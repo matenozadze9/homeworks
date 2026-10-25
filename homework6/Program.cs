@@ -30,17 +30,17 @@
             {
                 Console.WriteLine("ver chaabare");
             }
-
-
+            
+            
             //davaleba 2
 
 
             Console.WriteLine("sheiyvanet mteli ricxvi:");
             int number = Convert.ToInt32(Console.ReadLine());
 
-            
 
-            
+
+
             if (number % 2 == 0)
             {
                 Console.WriteLine("luwia");
@@ -62,6 +62,7 @@
             {
                 Console.WriteLine("nuliaa");
             }
+
         }
     }
 }
