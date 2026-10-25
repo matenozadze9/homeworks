@@ -60,7 +60,7 @@
             }
             else
             {
-                Console.WriteLine("nuli");
+                Console.WriteLine("nuliaa");
             }
         }
     }
