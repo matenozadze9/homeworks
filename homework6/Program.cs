@@ -5,6 +5,7 @@
         static void Main(string[] args)
         {
 
+            //hjhjhjh
             //davaleba 1
 
             Console.WriteLine("sheiyvanet pirveli qula:");
